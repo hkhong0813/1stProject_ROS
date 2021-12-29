@@ -3,6 +3,9 @@
 - 감시 카메라 모듈을 통한 화재 감지 및 터틀봇의 자율 주행 및 화재 진압
 - 구성 모듈 : 감시 카메라 / 자율주행 / 워터펌프
 
+[![turtlebot3 auto race 2020 시연 영상](https://img.youtube.com/vi/LmjnnAHEY7M/hqdefault.jpg)](https://youtu.be/LmjnnAHEY7M)
+ 
+
 ![flow chart](https://user-images.githubusercontent.com/61238033/147212101-818e5f6f-77fc-419c-ad1f-c0022275a7ad.png)
 #### 개인 별 담당 모듈 및 업무 분장
 - 김승빈 : 감시카메라 모듈에 탑재할 딥러닝 모델 개발
